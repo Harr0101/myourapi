@@ -1,5 +1,5 @@
 from PyQt5.QtWidgets import QMainWindow, QFileDialog
-from Ui_MainWindow import Ui_MainWindow
+from MainWindow_ui import Ui_MainWindow
 from HttpServer import HttpServer
 
 from ApiDialog import ApiDialog

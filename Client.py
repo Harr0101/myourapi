@@ -1,4 +1,4 @@
-from Ui_Client import Ui_Client
+from Client_ui import Ui_Client
 from PyQt5.QtWidgets import QDialog, QTreeWidgetItem
 from InputDialogs import VariableInputDialog, FunctionInputDialog
 
